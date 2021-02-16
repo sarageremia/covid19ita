@@ -23,8 +23,7 @@ and provincial level of detail.
 ## Data attribution
 
 **License**:
-[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) -
-[Visualizza licenza/View
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) - [View
 license](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 
 **Dataset author/editor**: [Dipartimento della Protezione
