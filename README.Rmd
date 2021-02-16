@@ -36,7 +36,7 @@ and provincial level of detail.
 
 **License**:
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) -
-[Visualizza licenza/View
+[View
 license](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 
 **Dataset author/editor**: [Dipartimento della
