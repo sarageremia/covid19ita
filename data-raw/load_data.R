@@ -20,7 +20,7 @@ load_data <- function(start, end, main_url, data_url) {
       format.Date(date[i], "%d")
     )
   }
-  
+
   data <- tibble()
 
   for (i in end_filename) {
