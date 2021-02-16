@@ -14,9 +14,9 @@ A screenshot of the interface is provided below.
 
 ## Data
 
-You can find R versions of the three [official Italian COVID-19
+You can find R versions of the three [Italy’s Covid-19
 datasets](https://github.com/pcm-dpc/COVID-19/) at national, regional
-and provincial level of detail.
+and provincial level.
 
 **Last data update**: 2021-02-14.
 
@@ -26,11 +26,8 @@ and provincial level of detail.
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) - [View
 license](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 
-**Dataset author/editor**: [Dipartimento della Protezione
+**Dataset author**: [Dipartimento della Protezione
 Civile](http://www.protezionecivile.it/)
 
 **Data provided by**: [Ministero della
 Salute](http://www.salute.gov.it/)
-
-**Original data processing and management by**: [Dipartimento della
-Protezione Civile](http://www.protezionecivile.it/)
